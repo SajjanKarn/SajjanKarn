@@ -8,7 +8,7 @@
 
 
 
-I am a Web Developer and Programmer from Nepal🎓. I am 15 years old and reading in 10th standard in secondary school now. I have decent skills in web development🤓. I usually create website with HTML, CSS, JS, React🕸️ . I know Web Frameworks like Node, Express, Django, Flask. Along side I know Python, PHP, Flutter. I can do Data-Science, Machine Learning stuffs as well. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
+I am a Self-Taught Web Developer and Programmer from Nepal🎓. I am 15 years old and reading in 10th standard in secondary school now. I have decent skills in web development🤓. I usually create website with HTML, CSS, JS, React🕸️ . I know Web Frameworks like Node, Express, Django, Flask. Along side I know Python, PHP, Flutter. I can do Data-Science, Machine Learning stuffs as well. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 
 
