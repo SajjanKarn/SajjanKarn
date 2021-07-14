@@ -37,7 +37,11 @@ I am a Self-Taught Programmer from Nepal🎓🇳🇵 . I am 16 years old and rea
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mongodb"></code>
 <code><img height="25" src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git"></code>
-<code><img height="25" src="https://e7.pngegg.com/pngimages/431/965/png-clipart-figma-designer-computer-icons-material-design-design-rectangle-poster.png" alt="figma"></code>
+<code><img height="25" src="https://i.pinimg.com/originals/63/a7/b1/63a7b1894b3210d07e434e9d12170586.png" alt="figma"></code>
+<code><img height="25" src="https://www.iubenda.com/blog/wp-content/uploads/2017/09/firebase_logo_shot.png" alt="firebase"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/dhanishgajjar/vscode-icons/master/png/default_dark.png" alt="vscode"></code>
+<code><img height="25" src="https://sdtimes.com/wp-content/uploads/2018/03/opstman.jpg" alt="postman"></code>
+
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
 <!--
