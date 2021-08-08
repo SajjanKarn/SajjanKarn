@@ -12,7 +12,7 @@ I am a Self-Taught Programmer from Nepal🎓🇳🇵 . I am 16 years old and rea
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" />
 
 ### Talking about Personal Stuffs:
 
