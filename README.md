@@ -8,8 +8,7 @@
 
 
 
-I am a Self-Taught Programmer from Nepal🎓🇳🇵 . I am 16 years old and reading in 12th standard in high school now. I have decent skills in web development🤓. I usually create website with HTML, CSS, JS, React🕸️ . I know Web Frameworks like Node, Express, Django, Flask. Along side I know Python, PHP, Flutter. I can do Data-Science, Machine Learning stuffs as well. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
-
+I am a Self-Taught Programmer from Nepal🎓🇳🇵 . I have decent skills in web development🤓. I usually create website with HTML, CSS, JS, React🕸️ . I know Web Frameworks like Node, Express, Django, Flask. Along side I know Python, PHP, Flutter. I can do Data-Science, Machine Learning stuffs as well. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 
 <img align="right" height="250" width="375" alt="" src="https://user-images.githubusercontent.com/77529535/104816402-097a5f80-5843-11eb-9d83-deadb3bb212c.gif?raw=true" />
