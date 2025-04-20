@@ -21,22 +21,35 @@ Hi! I'm **Sajjan**, a passionate technophile with over three years of hands-on e
 
 ## 🌟 Experience
 
-### Scalebit Pvt. LTD (Jan 2024 – Present)
-- 🚀 Utilizing technologies like React.js, Node.js, and React Native, I have created responsive web interfaces, robust server-side systems, and performant mobile apps.
+### Frontend Engineer
+**Perceive Now, Inc, San Francisco, United States** | Nov 2024 - Mar 2025
+- Implemented an AI Agent to generate reports, increasing report generation by 50%.
+- Built crucial features such as Team Management, User Management, and User Invitations.
+- Developed the admin user management system to handle user reports, file management, and specific requirements.
+- Designed a smooth user authentication and sign-up flow.
+- Optimized frontend performance, accessibility, and scalability to align with user and business needs.
 
-### Rubina Khadya Udhyog Pvt. LTD (Mar 2023 – Jun 2023)
-- 🎯 Full Stack Developer (Contract) at Rubina Khadya Udhyog, specializing in Next.js 14 with TypeScript for frontend and backend development. Led the development of a one-time project, ensuring seamless integration and user-friendly experience.
+### Backend Engineer
+**Himalayan Adventure Pvt. LTD, Kathmandu, Nepal** | Aug 2024 - Dec 2024
+- Worked with Strapi to build and customize content management solutions tailored to business needs.
+- Ensured efficient data flow and system scalability to support growing user demands.
+- Trained adventure guides and staff on how to effectively use the platform for managing trip details and customer data.
 
+### Full-Stack Developer
+**Scalebit Pvt. LTD** | Jan 2024 - Present
+- Utilizing technologies like React.js, Node.js, and React Native to create responsive web interfaces, robust server-side systems, and performant mobile apps.
 
-### SphereFive Services (QATAR) (Dec 2023 - Feb 2024)
-- 🖥️ Directed the creation of Sphere Five Cleaning Services' website, covering design, development, content creation, testing, and deployment. Resulted in an intuitive platform, bolstering the company's online presence and customer engagement.
+### Frontend Engineer
+**SphereFive Services, Koteshwor, Kathmandu** | Oct 2023 - Feb 2024
+- Directed the creation of SphereFive Cleaning Services' website and mobile app.
+- Increased customer inquiries by 35% through enhanced digital presence.
+- Developed an intuitive and responsive platform that improved user experience.
 
-
-## ✨ Soft Skills
-- **Leadership**: Proven ability to lead teams and mentor developers.
-- **Problem Solving**: Strong analytical skills and proactive approach to challenges.
-- **Communication**: Skilled at explaining complex tech concepts to non-technical stakeholders.
-- **Creativity**: Innovative thinker with a knack for generating fresh ideas.
+### Fullstack Engineer
+**Rubina Khadya Udhyog Pvt. LTD, Imadole, Laitpur** | Mar 2024 - Jun 2024
+- Helped grow the business by building a website for the company to sell their products.
+- Increased sales by 20%.
+- Worked with React.js, Next.js, TypeScript, and a CMS (Contentful).
 
 ---
 
