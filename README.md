@@ -8,7 +8,7 @@
 Hi! I'm **Sajjan**, I have been coding for more than 7+ years now and I have 4+ years of real world hands on experience in development. I have worked with several companies and clients and helped them launch their product in the market. I do more than just the codes like.... I make them do beep boop beeeep. Haha just kidding!. I like to think and code system from a higher level. That's it.
 
 - 💻 **Expertise**: Full-Stack Web Development (Including Mobile Apps.. Yes).
-- 🌱 **Currently exploring**: Philosophy, System Design, Boring Academics, Rust, Web3
+- 🌱 **Currently exploring**: Philosophy, System Design, Boring Academics(Not exploring but Forced), Rust, Web3
 - 🎯 **Mission**: To bridge the gap between cutting-edge tech and real-world applications.
 
 ## 🛠️ Technical Skills
