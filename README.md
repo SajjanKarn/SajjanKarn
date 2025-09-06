@@ -1,25 +1,29 @@
 # Sajjan Karna
 
-🚀 **Full-Stack Engineer | Innovator | Web & Android**  
+🚀 **Full-Stack Engineer | Web & Mobile**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjan-karna) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sajjankarn)
 
 ## 👋 Introduction
 
-Hi! I'm **Sajjan**, a passionate technophile with over three years of hands-on experience in developing scalable and innovative applications. I'm currently diving deep into **blockchain technology & AI/ML** to master this transformative field. I thrive in fast-paced environments and love to experiment, learn, and push the boundaries of technology. I love to tackle complex challenges and craft solutions that stand out.
+Hi! I'm **Sajjan**, I have been coding for more than 7+ years now and I have 4+ years of real world hands on experience in development. I have worked with several companies and clients and helped them launch their product in the market. I do more than just the codes like.... I make them do beep boop beeeep. Haha just kidding!. I like to think and code system from a higher level. That's it.
 
-- 💻 **Expertise**: Full-Stack Web Development, Backend Systems, Smart Contracts.
-- 🌱 **Currently exploring**: Rust, Solidity, DeFi, and Web3.
+- 💻 **Expertise**: Full-Stack Web Development (Including Mobile Apps.. Yes).
+- 🌱 **Currently exploring**: Philosophy, System Design, Boring Academics, Rust, Web3
 - 🎯 **Mission**: To bridge the gap between cutting-edge tech and real-world applications.
 
 ## 🛠️ Technical Skills
 
 - **Languages & Scripts**: JavaScript, TypeScript, Python, Solidity, Rust
-- **Frameworks & Libraries**: ReactJS, NextJS, Redux, Webpack, Node.js, Express, Tailwind, RemixJS, Apollo GraphQL
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda), Azure, Firebase, Docker
+- **Frameworks & Libraries**: Core ReactJS, React Native, NextJS, Redux, Webpack, Node.js, Fastify, Express, Tailwind, Apollo GraphQL
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda, ElasticSearch), Azure, Firebase, Docker
 - **Database**: MySQL, PostgreSQL, MongoDB
 - **Version Control**: Git, GitHub
 
 ## 🌟 Experience
+
+### Full Stack Developer
+**Technimus, LLC, Delaware, United States** | Apr 2025 - Present
+- currently working here.
 
 ### Frontend Engineer
 **Perceive Now, Inc, San Francisco, United States** | Nov 2024 - Mar 2025
@@ -29,18 +33,10 @@ Hi! I'm **Sajjan**, a passionate technophile with over three years of hands-on e
 - Designed a smooth user authentication and sign-up flow.
 - Optimized frontend performance, accessibility, and scalability to align with user and business needs.
 
-### Backend Engineer
-**Himalayan Adventure Pvt. LTD, Kathmandu, Nepal** | Aug 2024 - Dec 2024
-- Worked with Strapi to build and customize content management solutions tailored to business needs.
-- Ensured efficient data flow and system scalability to support growing user demands.
-- Trained adventure guides and staff on how to effectively use the platform for managing trip details and customer data.
+## ..... more in these timeframes.
 
-### Full-Stack Developer
-**Scalebit Pvt. LTD** | Jan 2024 - Present
-- Utilizing technologies like React.js, Node.js, and React Native to create responsive web interfaces, robust server-side systems, and performant mobile apps.
-
-### Frontend Engineer
-**SphereFive Services, Koteshwor, Kathmandu** | Oct 2023 - Feb 2024
+### Web & Mobile Application Developer
+**SphereFive Services, Qatar, Doha** | Oct 2023 - Feb 2024
 - Directed the creation of SphereFive Cleaning Services' website and mobile app.
 - Increased customer inquiries by 35% through enhanced digital presence.
 - Developed an intuitive and responsive platform that improved user experience.
