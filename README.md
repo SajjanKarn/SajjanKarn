@@ -1,52 +1,102 @@
 # Sajjan Karna
 
-🚀 **Full-Stack Engineer | Web & Mobile**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sajjan-karna) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/sajjankarn)
+**Senior Full-Stack Engineer**  
+Web · Mobile · Backend · System Design
 
-## 👋 Introduction
-
-Hi! I'm **Sajjan**, I have been coding for more than 7+ years now and I have 4+ years of real world hands on experience in development. I have worked with several companies and clients and helped them launch their product in the market. I do more than just the codes like.... I make them do beep boop beeeep. Haha just kidding!. I like to think and code system from a higher level. That's it.
-
-- 💻 **Expertise**: Full-Stack Web Development, Mobile Development.
-- 🌱 **Currently exploring**: Philosophy, System Design, Boring Academics(Not exploring but Forced), Rust, Web3
-- 🎯 **Mission**: To bridge the gap between cutting-edge tech and real-world applications.
-
-## 🛠️ Technical Skills
-
-- **Languages & Scripts**: JavaScript, TypeScript, Python, Solidity, Rust
-- **Frameworks & Libraries**: Core ReactJS, React Native, NextJS, Redux, Webpack, Node.js, Fastify, Express, Tailwind, Apollo GraphQL
-- **Cloud & DevOps**: AWS (EC2, S3, Lambda, ElasticSearch), Azure, Firebase, Docker
-- **Database**: MySQL, PostgreSQL, MongoDB
-- **Version Control**: Git, GitHub
-
-## 🌟 Experience
-
-### Full Stack Developer
-**Technimus, LLC, Delaware, United States** | Apr 2025 - Present
-- currently working here.
-
-### Frontend Engineer
-**Perceive Now, Inc, San Francisco, United States** | Nov 2024 - Mar 2025
-- Implemented an AI Agent to generate reports, increasing report generation by 50%.
-- Built crucial features such as Team Management, User Management, and User Invitations.
-- Developed the admin user management system to handle user reports, file management, and specific requirements.
-- Designed a smooth user authentication and sign-up flow.
-- Optimized frontend performance, accessibility, and scalability to align with user and business needs.
-
-## ..... more in these timeframes.
-
-### Web & Mobile Application Developer
-**SphereFive Services, Qatar, Doha** | Oct 2023 - Feb 2024
-- Directed the creation of SphereFive Cleaning Services' website and mobile app.
-- Increased customer inquiries by 35% through enhanced digital presence.
-- Developed an intuitive and responsive platform that improved user experience.
-
-### Fullstack Engineer
-**Rubina Khadya Udhyog Pvt. LTD, Imadole, Laitpur** | Mar 2024 - Jun 2024
-- Helped grow the business by building a website for the company to sell their products.
-- Increased sales by 20%.
-- Worked with React.js, Next.js, TypeScript, and a CMS (Contentful).
+📍 Remote / Global  
+✉️ sajjankarna.dev@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/sajjan-karna) · [GitHub](https://github.com/sajjankarn) · [sajjankarn.com.np](https://www.sajjankarn.com.np) · [Instagram](https://instagram.com/sajjankarn)
 
 ---
 
-📫 **Let's connect!** Feel free to reach out via [email](mailto:sajjankarna.dev@gmail.com) or follow me on [LinkedIn](https://linkedin.com/in/sajjan-karna).
+## Summary
+
+Senior full-stack engineer with **5+ years of production experience** building and scaling real-world products across web, mobile, and backend systems.
+
+I focus on **system design, long-term maintainability, and failure-aware architecture**.  
+I care less about trends and more about what survives traffic, deadlines, and future developers.
+
+---
+
+## Core Competencies
+
+- System design & backend architecture
+- Scalable API design (REST / GraphQL)
+- Data modeling & migrations
+- Performance optimization & reliability
+- Distributed systems debugging
+- Code quality, reviews, and mentorship
+
+---
+
+## Technical Stack
+
+### Frontend
+- React, Next.js, React Native
+- TypeScript
+- Tailwind CSS
+- Redux / Zustand (used deliberately)
+- Framer Motion (UX polish only)
+
+### Backend
+- Node.js (deep runtime understanding)
+- Fastify, Express
+- REST, GraphQL
+- WebSockets, background jobs, queues
+- Authentication, RBAC, rate limiting
+- PostgreSQL, MySQL, MongoDB
+- Prisma, Drizzle
+
+### System Design & Architecture
+- API versioning & backward compatibility
+- Caching strategies (Redis, in-memory, edge)
+- Idempotency, retries, and graceful failure
+- Query planning & indexing
+- Event-driven and async patterns
+- Load-aware design (what breaks first)
+
+### Infrastructure & DevOps
+- Docker, Nginx
+- AWS (EC2, S3, Lambda)
+- DigitalOcean, Vercel
+- CI/CD (GitHub Actions, Jenkins)
+- Zero-downtime deployments
+
+### Observability & Reliability
+- Structured logging
+- Metrics & alerting (latency, error rate, saturation)
+- Health checks & degradation strategies
+- Debugging production systems calmly
+
+---
+
+## Experience (Selected)
+
+### Full-Stack Developer — **Technimus LLC (US)**
+Own features end-to-end, from system design to production.  
+Make architectural decisions that won’t age badly.
+
+### Frontend Engineer — **Perceive Now, Inc. (US)**
+Built frontend systems for AI-driven products.  
+Improved performance, stability, and developer experience.
+
+### Full-Stack Engineer — **Multiple Products**
+Designed and shipped web and mobile applications used by real customers.  
+Some increased revenue.  
+All handled real traffic.
+
+---
+
+## Engineering Notes
+
+- Boring systems scale better
+- Clever code ages poorly
+- Most bugs are design problems
+- Observability beats confidence
+
+---
+
+## More
+
+For detailed experience, projects, and context:  
+👉 **https://www.sajjankarn.com.np/about**
