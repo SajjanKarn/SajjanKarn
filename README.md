@@ -1,6 +1,6 @@
 # Sajjan Karna
 
-**Senior Full-Stack Engineer**  
+**Full-Stack Engineer (Web & Mobile) | System Design & Architecture | DevOps**  
 Web · Mobile · Backend · System Design
 
 📍 Remote / Global  
@@ -72,7 +72,7 @@ I care less about trends and more about what survives traffic, deadlines, and fu
 
 ## Experience (Selected)
 
-### Full-Stack Developer — **Technimus LLC (US)**
+### Project Team Lead & Full Stack Engineer — **Technimus LLC (US)**
 Own features end-to-end, from system design to production.  
 Make architectural decisions that won’t age badly.
 
