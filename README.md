@@ -1,6 +1,6 @@
 # Sajjan Karna
 
-**Full-Stack Engineer (Web & Mobile) | System Design & Architecture | DevOps**  
+**Software Engineer | System Design & Architecture | DevOps**  
 Web · Mobile · Backend · System Design
 
 📍 Remote / Global  
