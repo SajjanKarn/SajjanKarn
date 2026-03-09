@@ -5,7 +5,7 @@ Web · Mobile · Backend · System Design
 
 📍 Remote / Global  
 ✉️ sajjankarna.dev@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sajjan-karna) · [GitHub](https://github.com/sajjankarn) · [sajjankarn.com.np](https://sajjan.dev) · [Instagram](https://instagram.com/sajjan.sh)
+🔗 [LinkedIn](https://www.linkedin.com/in/sajjan-karna) · [GitHub](https://github.com/sajjankarn) · [Minimal Portfolio Website 🧑‍💼](https://sajjan.dev)· [Fancy Portfolio Website ⭐](https://sajjan.dev) · [Instagram](https://instagram.com/sajjan.sh)
 
 ---
 
