@@ -1,102 +1,39 @@
 # Sajjan Karna
 
-**Software Engineer | System Design & Architecture | DevOps**  
-Web · Mobile · Backend · System Design
+### Software Engineer · 5+ Years Building Systems That Scale
 
-📍 Remote / Global  
-✉️ sajjankarna.dev@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/sajjan-karna) · [GitHub](https://github.com/sajjankarn) · [Minimal Portfolio Website 🧑‍💼](https://sajjan.dev)· [Fancy Portfolio Website ⭐](https://sajjan.dev) · [Instagram](https://instagram.com/sajjan.sh)
+[Website](https://sajjan.dev) · [LinkedIn](https://linkedin.com/in/sajjan-karna) · [Instagram](https://instagram.com/sajjan.sh) · [YouTube](https://youtube.com/@codewithsajjan) · [Email](mailto:sajjankarna.dev@gmail.com)
 
 ---
 
-## Summary
+> *I make computers do things they probably shouldn't.*
 
-Senior full-stack engineer with **5+ years of production experience** building and scaling real-world products across web, mobile, and backend systems.
+## 👋 About
 
-I focus on **system design, long-term maintainability, and failure-aware architecture**.  
-I care less about trends and more about what survives traffic, deadlines, and future developers.
+For 5+ years, I've architected and built production systems that handle real scale: multi-tenant SaaS platforms, microservices infrastructure, and products shipping to thousands of users. Along the way I've led engineering teams, broken things, fixed them, and occasionally pretended the original design was intentional.
 
----
+My core strength is **backend systems design**: scalable APIs, database architecture, and reliable infrastructure. I also build frontend and mobile when needed, but my deepest expertise is in the systems that make products actually work at scale.
 
-## Core Competencies
+I like understanding how things work, making complicated things boring, and leaving codebases slightly less cursed than I found them.
 
-- System design & backend architecture
-- Scalable API design (REST / GraphQL)
-- Data modeling & migrations
-- Performance optimization & reliability
-- Distributed systems debugging
-- Code quality, reviews, and mentorship
+## 💼 Experience
 
----
+| Period | Role | Highlights |
+|---|---|---|
+| **Apr 2025 – Present** | **Sr. Software Engineer**<br>Technimus LLC · Delaware, US | Led development of 3D canvas printing editor (Three.js, print-ready exports). Worked on OSOM, a multi-tenant platform for international student consultancies, covering database design, real-time chat, and AI-driven insights. Integrated WhatsApp Cloud, Bulk SMS, and Meta Marketing APIs. Helped shape Quest and migrated 85K+ legacy records. |
+| **May 2025 – Present** | **Founding Engineer / Product Architect**<br>LekhaPatra · Lalitpur, Nepal | Architected a mobile-first restaurant SaaS (POS, billing, inventory, purchasing) serving 10+ stores. React Native apps for Android and iOS, with APIs handling 50K+ requests/day at 99.99% uptime. |
+| **Nov 2024 – Apr 2025** | **Frontend Engineer**<br>Perceive Now · San Francisco, US | Built real-time chat systems and worked with the AI team to improve report generation efficiency by 20%. Cut load times by 35% and met WCAG 2.1 accessibility standards. |
+| **Aug 2024 – May 2025** | **Full Stack Engineer**<br>Scalebit | Shipped production systems for trekking, education, and events. Backend APIs at 50K+ requests/day. Cross-platform mobile apps used by 5,000+ active users. |
+| **Oct 2023 – Feb 2024** | **Full Stack Engineer**<br>SphereFive Services · Doha, Qatar | Built web and mobile platforms that increased customer inquiries by 35% and cut bounce rate by 28%. |
+| **Apr 2022 – Sep 2023** | **Founding Engineer**<br>Rentide | Built a rental marketplace from 0 → 1 with a real-time booking system, payments, and a mobile app. 500+ users. Top 50 at Nepal KMII, 2nd place at the SET exhibition (113 projects). |
+| **2021 – 2024** | **Consulting & Contract Work**<br>Various | Full-stack site for Kathmandu University's CS department (300+ users), CMS and backend work for Himalayan Adventure, Docker infrastructure for Outsmash, and a Next.js e-commerce build that lifted revenue 20% for Rubina Khadya Udhyog. |
 
-## Technical Stack
+## 🌿 Outside the Machine
 
-### Frontend
-- React, Next.js, React Native
-- TypeScript
-- Tailwind CSS
-- Redux / Zustand (used deliberately)
-- Framer Motion (UX polish only)
+I like music, riding my bike, taking unnecessarily long routes, and getting lost on purpose.
 
-### Backend
-- Node.js (deep runtime understanding)
-- Fastify, Express
-- REST, GraphQL
-- WebSockets, background jobs, queues
-- Authentication, RBAC, rate limiting
-- PostgreSQL, MySQL, MongoDB
-- Prisma, Drizzle
+I spend enough time around artificial things, so I like disappearing into places that weren't designed by humans. Most days end with a good song, an empty road, or a sunset.
 
-### System Design & Architecture
-- API versioning & backward compatibility
-- Caching strategies (Redis, in-memory, edge)
-- Idempotency, retries, and graceful failure
-- Query planning & indexing
-- Event-driven and async patterns
-- Load-aware design (what breaks first)
+**Mostly Human. Sometimes Programmer.**
 
-### Infrastructure & DevOps
-- Docker, Nginx
-- AWS (EC2, S3, Lambda)
-- DigitalOcean, Vercel
-- CI/CD (GitHub Actions, Jenkins)
-- Zero-downtime deployments
-
-### Observability & Reliability
-- Structured logging
-- Metrics & alerting (latency, error rate, saturation)
-- Health checks & degradation strategies
-- Debugging production systems calmly
-
----
-
-## Experience (Selected)
-
-### Project Team Lead & Full Stack Engineer — **Technimus LLC (US)**
-Own features end-to-end, from system design to production.  
-Make architectural decisions that won’t age badly.
-
-### Frontend Engineer — **Perceive Now, Inc. (US)**
-Built frontend systems for AI-driven products.  
-Improved performance, stability, and developer experience.
-
-### Full-Stack Engineer — **Multiple Products**
-Designed and shipped web and mobile applications used by real customers.  
-Some increased revenue.  
-All handled real traffic.
-
----
-
-## Engineering Notes
-
-- Boring systems scale better
-- Clever code ages poorly
-- Most bugs are design problems
-- Observability beats confidence
-
----
-
-## More
-
-For detailed experience, projects, and context:  
-👉 **https://sajjan.dev**
+[More about me →](https://sajjan.dev)
