@@ -26,7 +26,7 @@ I like understanding how things work, making complicated things boring, and leav
 | **Aug 2024 – May 2025** | **Full Stack Engineer**<br>Scalebit | Shipped production systems for trekking, education, and events. Backend APIs at 50K+ requests/day. Cross-platform mobile apps used by 5,000+ active users. |
 | **Oct 2023 – Feb 2024** | **Full Stack Engineer**<br>SphereFive Services · Doha, Qatar | Built web and mobile platforms that increased customer inquiries by 35% and cut bounce rate by 28%. |
 | **Apr 2022 – Sep 2023** | **Founding Engineer**<br>Rentide | Built a rental marketplace from 0 → 1 with a real-time booking system, payments, and a mobile app. 500+ users. Top 50 at Nepal KMII, 2nd place at the SET exhibition (113 projects). |
-| **2021 – 2024** | **Consulting & Contract Work**<br>Various | Full-stack site for Kathmandu University's CS department (300+ users), CMS and backend work for Himalayan Adventure, Docker infrastructure for Outsmash, and a Next.js e-commerce build that lifted revenue 20% for Rubina Khadya Udhyog. |
+| **2019 – 2024** | **Consulting & Contract Work**<br>Various | Full-stack site for Kathmandu University's CS department (300+ users), CMS and backend work for Himalayan Adventure, Docker infrastructure for Outsmash, and a Next.js e-commerce build that lifted revenue 20% for Rubina Khadya Udhyog. |
 
 ## 🌿 Outside the Machine
 
